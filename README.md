@@ -1,5 +1,5 @@
-# EDA_-Exploratory-Data-Analysis-_Pandas
-# 🌍 World Population EDA with Pandas
+# [EDA_-Exploratory-Data-Analysis-_Pandas](https://github.com/NishaSoni-Analyst/EDA_-Exploratory-Data-Analysis-_Pandas/blob/main/EDAinPandas.ipynb)
+# [🌍 World Population EDA with Pandas](https://github.com/NishaSoni-Analyst/EDA_-Exploratory-Data-Analysis-_Pandas/blob/main/EDAinPandas.ipynb)
 
 This project performs Exploratory Data Analysis (EDA) on the World Population dataset using Python, Pandas, and basic visualization libraries.
 
